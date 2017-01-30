@@ -1,0 +1,17 @@
+{
+	"name": "root/espacedenom",
+	"authors": [
+		{
+			"name": "axel",
+			"email": "axel.bouillart@gmail.com"
+		}
+	],
+	"require": {},
+
+	"autoload": {
+		"psr-4": {
+			"Etheyr\\App\\" : "src/"
+
+		}
+	}
+}
